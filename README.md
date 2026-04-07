@@ -1,2 +1,2 @@
 # Html-portfolio
-Basic HTML portfolio from udemy exercise.
+Basic HTML portfolio from udemy exercises.
